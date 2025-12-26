@@ -9,11 +9,11 @@
 ---
 
 ### 💫 About Me:
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Power-Bi, SQL**
 - 💼 I’m building MERN Stack projects with authentication, e-commerce, and admin control
-- 💬 Ask me about **React, Node.js, MongoDB, Express**
-- 🧑‍💻 Portfolio: [Visit Portfolio](https://mernportfolio-prateek205-prateek205s-projects.vercel.app)
-- 📫 How to reach me: **prateekbahad70@gmail.com**
+- 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap, React, Node.js, MongoDB, Express, Postman, Git, GitHub, Vercel**
+- 🧑‍💻 Portfolio: [Visit Portfolio](https://my-portfolio-roan-seven-15.vercel.app)
+- 📫 How to reach me: **prateekbahad@gmail.com**
 
 ---
 
