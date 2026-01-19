@@ -9,7 +9,7 @@
 ---
 
 ### 💫 About Me:
-- 🌱 I’m currently learning **Power-Bi, My-SQL**
+- 🌱 I’m currently refreshing the **Frontend**.
 - 💼 I’m building MERN Stack projects with authentication, e-commerce, and admin control
 - 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap, React, Node.js, MongoDB, Express, Postman, Git, GitHub, Vercel**
 - 🧑‍💻 Portfolio: [Visit Portfolio](https://my-portfolio-roan-seven-15.vercel.app)
