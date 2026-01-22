@@ -42,6 +42,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prateek205&layout=compact&theme=radical&hide_border=true" width="48%" />
 </p>
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prateek205&theme=react-dark)
-
 
