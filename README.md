@@ -22,7 +22,7 @@
 - ⚡ Fun fact: I enjoy converting UI designs into real working websites.
 
 📌 Portfolio:  
-👉 https://my-portfolio-roan-seven-15.vercel.app
+👉 https://react-portfolio-7i9i.onrender.com
 
 📫 Contact: **prateekbahad@gmail.com**
 
